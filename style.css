@@ -7,12 +7,16 @@ body {
     padding: 30px;
 }
 
+.titulo-principal {
+    padding-left: 20px;
+}
+
 #banner {
     width: 100%;
 }
 
-h1 {
-    text-align: center;
+.titulo-centralizado {
+    text-align: center
 }
 
 p {
@@ -28,9 +32,6 @@ p {
     padding: 20px;
 }
 
-h2 {
-    text-align: center;
-}
 
 #missao {
     font-size: 20px;
